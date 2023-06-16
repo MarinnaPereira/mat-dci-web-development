@@ -6,14 +6,14 @@
 
 Final Web Development Project for the Orientation Course (MAT) at Digital Career Institute (DCI).
 
-[🔗 Clique aqui para acessar](https://marinnapereira.github.io/mat-dci-web-development)
+[🔗 Click here to access](https://marinnapereira.github.io/mat-dci-web-development)
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologies
 
 - HTML
 - CSS
 - Git e GitHub
 
-## 💜 Contato
+## 💜 Contact
 
 marinna.dos.anjos@gmail.com
